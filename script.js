@@ -696,10 +696,20 @@ if (user === "Admin") {
 
 // double(3);
 
-function sayHello() {
-  console.log("Hello, world");
-}
+// function sayHello() {
+//   console.log("Hello, world");
+// }
 
-sayHello()
+// sayHello()
 
+// function greetUser(name = "Friend") {
+//   console.log("Hello, " + name + "!");
+// }
 
+// greetUser("Kevin");
+
+// function sendMessage(from, message) {
+//   console.log(from + ": " + message);
+// }
+
+// sendMessage("Admin", "Try again");
