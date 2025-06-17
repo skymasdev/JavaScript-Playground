@@ -684,13 +684,11 @@ if (user === "Admin") {
 // sum(9, 6)
 
 
-let message = "Kevin"
+function greet(person)
+{ alert("Hi " + person) }
+  
 
-function sayHi() { 
-  let message = "Bob"
-  console.log("Hi "+ message);
-}
-sayHi()
+greet("Maria")
 
 
 
