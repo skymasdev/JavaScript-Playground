@@ -683,12 +683,23 @@ if (user === "Admin") {
 // }
 // sum(9, 6)
 
+// function greet(person = "Guest") {
+//   console.log("Hello " + person);
+// }
 
-function greet(person)
-{ alert("Hi " + person) }
-  
+// greet();
+// greet("Maria");
 
-greet("Maria")
+// function double(x) {
+//   return x * 2;
+// }
 
+// double(3);
+
+function sayHello() {
+  console.log("Hello, world");
+}
+
+sayHello()
 
 
