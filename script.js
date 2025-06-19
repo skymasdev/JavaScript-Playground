@@ -713,3 +713,56 @@ if (user === "Admin") {
 // }
 
 // sendMessage("Admin", "Try again");
+
+// let sayHi = function () {
+//   console.log("Hello");
+// };
+
+// sayHi()
+
+// function sayHi() {
+//   console.log("Hello");
+// }
+
+// let func = sayHi;
+
+// sayHi();
+// func();
+
+// let sayHello = (a, b) => a + b;
+// console.log(sayHello(3,6));
+
+// let sum = () => console.log("Hello");
+
+// function ask(question, yes, no) {
+//   if (confirm(question)) yes();
+//   else no();
+// }
+
+// ask(
+//   "Do you agree?",
+//   function () {
+//     alert("You agreed.");
+//   },
+//   function () {
+//     alert("You canceled the execution.");
+//   }
+// );
+
+// solution for exercise 1
+// let greet = (name) => "Hello " + name + "!";
+
+// // solution for exercise 2
+// let multiply = (a, b) => a * b;
+
+// // solution for exercise 3
+// let sayHi = () => console.log("Hi");
+
+// // solution for exercise 4
+// let checkAge = (age) => (age >= 18 ? true : false);
+
+// // solution for exercise 5
+// const numbers = [1, 2, 3, 4, 5];
+
+// const double = numbers.map((numbers) => numbers * 2);
+
