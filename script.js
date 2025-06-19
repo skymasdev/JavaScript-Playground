@@ -761,8 +761,15 @@ if (user === "Admin") {
 // // solution for exercise 4
 // let checkAge = (age) => (age >= 18 ? true : false);
 
+// function checkAge(age) {
+//   if (age >= 18) {
+//     console.log("true");
+//   } else {
+//     console.log("flase");
+//   }
+// }
+
 // // solution for exercise 5
 // const numbers = [1, 2, 3, 4, 5];
 
 // const double = numbers.map((numbers) => numbers * 2);
-
